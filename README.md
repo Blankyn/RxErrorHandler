@@ -5,7 +5,13 @@
 ## Download
 
 ``` gradle
-implementation 'com.github.Blankyn:RxErrorHandler:2.0.1' //rxjava2
+//rxjava2
+implementation 'com.github.Blankyn:RxErrorHandler:2.0.1'
+implementation 'io.reactivex.rxjava2:rxjava:2.2.21'
+
+//rxjava3 正在开发
+
+
 ```
 
 ## Initialization
@@ -61,8 +67,8 @@ implementation 'com.github.Blankyn:RxErrorHandler:2.0.1' //rxjava2
 > 感谢[JessYanCoding](https://github.com/JessYanCoding)项目代码
 >
 
-
 ## License
+
 ```
  Copyright 2021, blankm             
   
