@@ -26,6 +26,6 @@ android {
 dependencies {
     implementation 'com.android.support:appcompat-v7:28.0.0'
     implementation 'io.reactivex.rxjava2:rxjava:2.2.21'
-//    implementation 'me.jessyan:rxerrorhandler:2.1.1'
-    implementation project(':rxerrorhandler')
+    implementation 'com.github.Blankyn:RxErrorHandler:2.0.0'
+//    implementation project(':rxerrorhandler')
 }
