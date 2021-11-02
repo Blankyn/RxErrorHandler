@@ -42,7 +42,7 @@ afterEvaluate {
                 // You can then customize attributes of the publication as shown below.
                 groupId = 'me.blankm.rxerrorhandler'
                 artifactId = 'base'
-                version = '2.0.0'
+                version = '2.0.1'
             }
             // Creates a Maven publication called “debug”.
 //            debug(MavenPublication) {

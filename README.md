@@ -5,7 +5,7 @@
 ## Download
 
 ``` gradle
-implementation 'com.github.Blankyn:RxErrorHandler:2.0.0' //rxjava2
+implementation 'com.github.Blankyn:RxErrorHandler:2.0.1' //rxjava2
 ```
 
 ## Initialization
