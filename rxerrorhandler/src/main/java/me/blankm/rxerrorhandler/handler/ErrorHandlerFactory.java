@@ -32,7 +32,6 @@ public class ErrorHandlerFactory {
 
     /**
      * 处理错误
-     *
      * @param throwable
      */
     public void handleError(Throwable throwable) {
