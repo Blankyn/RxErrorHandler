@@ -1,17 +1,31 @@
 # RxErrorHandler
-
+[![](https://jitpack.io/v/Blankyn/RxErrorHandler.svg)](https://jitpack.io/#Blankyn/RxErrorHandler)
 ## Error Handle Of Rxjava
 
 ## Download
 
+### Step 1. Add it in your root build.gradle at the end of repositories:
+
+
+```	gradle
+   allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+   }
+```
+
+### Step 2. Add the dependency
+
 ``` gradle
-//rxjava2
-implementation 'com.github.Blankyn:RxErrorHandler:2.0.1'
-implementation 'io.reactivex.rxjava2:rxjava:2.2.21'
+   dependencies {
+        //rxjava2
+        implementation 'com.github.Blankyn:RxErrorHandler:2.0.1'
+        implementation 'io.reactivex.rxjava2:rxjava:2.2.21'
 
-//rxjava3 正在开发
-
-
+        //rxjava3 正在开发
+   }
 ```
 
 ## Initialization
